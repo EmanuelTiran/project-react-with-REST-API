@@ -1,0 +1,36 @@
+.back{
+    width: 50px;
+    float: left;
+    margin-top: 50px;
+}
+
+.imgPost{
+    margin-top: 100px;
+    width: 130px;
+    margin-left: 65px;
+  float: left;
+}
+.title{
+    width: 1200px;
+    text-transform: capitalize;
+    color: chocolate;
+    font-size: 50px;
+    margin-top: 170px;
+    margin-left: 200px;
+}
+.bodyPost{
+    width: 600px;
+    margin: auto;
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+.btnPost{
+    font-size: 20px;
+    color: brown;
+    cursor: pointer;
+    border:none;
+    height: 50px;
+    
+    background-color: antiquewhite;
+}

@@ -1,0 +1,31 @@
+.body{
+    margin:auto;
+    width:75%;
+    height: 700px;
+    
+}
+
+.info {
+    
+    
+   text-align: center;
+    width: 350px;
+    height: 650px;
+    color: black;
+    margin:auto;
+    margin-top: 100px;
+
+}
+.textInfo{
+    
+    text-align: left;
+    float: right;
+    margin: 10px;
+    font-size: 25px;
+}
+.name{
+    text-align: center;
+    font-size: 35px;
+}
+
+

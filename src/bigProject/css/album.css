@@ -1,0 +1,13 @@
+.back{
+    width: 50px;
+    float: left;
+    margin-top: 50px;
+}
+.titleAlbm{
+    width: 15%;
+    color: chocolate;
+    font-size: 30px;
+    margin-top: 100px;
+    text-transform: capitalize;
+    margin-left: 100px;
+}

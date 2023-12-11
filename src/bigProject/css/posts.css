@@ -1,0 +1,22 @@
+.body{
+    margin:auto;
+}
+.postDiv{
+  width: 500px;
+  height: 200px;
+  float: left;
+  margin: 55px;
+}
+.postImg{
+  width: 100px;
+  float: left;
+}
+.postTitle{
+  text-transform: capitalize;
+  color: black;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 160px;
+}
+
+ 

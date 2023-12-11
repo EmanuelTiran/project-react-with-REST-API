@@ -1,0 +1,28 @@
+nav {
+    width: 7%;
+    /* border-right: solid 1px;
+    border-bottom: solid 1px; */
+    padding: 1rem;
+    background-color: white
+}
+
+.link {
+    text-align: center;
+    margin: 50px 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.btnHome {
+background-color:brown ;
+    font-size: 85%;
+    color:antiquewhite;
+    cursor: pointer;
+    border: none;
+    width: auto;
+    height: 30px;
+    margin: 5px;
+    
+
+}

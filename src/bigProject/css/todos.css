@@ -1,0 +1,42 @@
+.body{
+    margin:auto;
+    
+    
+}
+.filter{
+  margin: 10px;
+}
+.tableDiv{
+  border-radius: 10px;
+  
+}
+table, td, th {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    
+    width: 100%;
+  }
+  
+  th {
+    height: 70px;
+    background-color: brown;
+    color: antiquewhite;
+  }
+  td {
+    height:50px ;
+  }
+  #addTodo{
+width: 25%;
+height: 20%;
+  }
+  #inputaddTodo{
+    width: 25%;
+    height: 20%;
+    background-color: brown;
+      }
+  

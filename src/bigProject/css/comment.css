@@ -1,0 +1,11 @@
+.comment{
+    width: 500px;
+    float: left;
+    margin: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+.imgCom{
+    width: 80px;
+    float: left;
+}

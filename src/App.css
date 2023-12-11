@@ -1,0 +1,32 @@
+.App {
+  height: 300px;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+}
+.wish {
+  width: 30%;
+  height: 30%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.btn {
+  margin-top: 20px;
+  font-size: 50px;
+  padding: 100px;
+  background-color: #007bff;
+  color: white;
+  border-radius: 80px;
+  cursor: pointer;
+}
+
+ 
